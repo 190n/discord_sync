@@ -1,0 +1,4 @@
+main: org._190n.discord_sync.App
+name: discord_sync
+version: '0.1'
+api-version: '1.16'
